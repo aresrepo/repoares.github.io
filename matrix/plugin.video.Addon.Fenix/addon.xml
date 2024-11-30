@@ -1,5 +1,5 @@
 <?xml version="3.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Addon.Fenix" name="[B][COLOR red]Addon[/COLOR] [COLOR orange]Fenix[/COLOR][/B]" version="2.1.9+matriz.2" provider-name="AddonFenix">  
+<addon id="plugin.video.Addon.Fenix" name="[B][COLOR red]Addon[/COLOR] [COLOR orange]Fenix[/COLOR][/B]" version="2.1.9.2" provider-name="R.O">  
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
